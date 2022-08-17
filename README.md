@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Iftekhar Ahamed Siddiquee
+## Hi, I'm Iftekhar Ahamed Siddiquee
 #### I am an deep learning enthusiast and a competitive programmer.
 * I'm working as a competitive programming trainer.
 * Inter University Programming Contest participate 2 times Champion 1 time and runners-up 1 time.
