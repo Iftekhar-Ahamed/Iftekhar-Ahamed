@@ -16,9 +16,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekhar-Ahamed)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iftekhar-Ahamed&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iftekhar-Ahamed)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iftekhar-Ahamed&show_icons=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/Iftekhar-Ahamed)  
 
