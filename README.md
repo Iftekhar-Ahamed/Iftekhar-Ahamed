@@ -3,7 +3,7 @@
 `😄 Iftekhar Ahamed Siddiquee`
 `🌱 Dhaka, Bangladesh`
 
-<a href="https://www.linkedin.com/in/iftekhar-ahamed-siddiquee-ab9992205/" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> | <a href="mailto:iftekharahamed56@gmail.com">`iftekharahamed56@gmail.com`</a> | <a href="https://iftekhar-ahamed.github.io/">`https://iftekhar-ahamed.github.io`</a>
+<a href="https://www.linkedin.com/in/iftekhar-ahamed-siddiquee-ab9992205/" target="_blank"> <img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> | <a href="mailto:iftekharahamed56@gmail.com">`iftekharahamed56@gmail.com`</a> | <a href="https://iftekhar-ahamed.github.io/">`https://iftekhar-ahamed.github.io`</a>
 
 ### Hello World! 👋
 
