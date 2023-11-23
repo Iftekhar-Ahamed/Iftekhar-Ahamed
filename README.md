@@ -7,12 +7,11 @@
 
 ### Hello World! 👋
 
-For almost 3 years, I've been deeply involved with problem solving and competitive programming, specializing in Algorithem, Data Structure, Complex thinking. Among these, In present I am working as Backend  Software Engineer Intern at IBOS. Technology used : 
+For almost 3 years, I've been deeply involved with problem solving and competitive programming, specializing in Algorithem, Data Structure, Complex thinking. Among these, In present I am working as Backend  Software Engineer Intern at IBOS.
 
-### Entrepreneurship at [Selefe.com](https://selefe.com)
+### Internship at [IBOS(An Akij Company)](https://ibos.io/)
 
-I'm also an entrepreneur at [Selefe.com](https://selefe.com), a Bangladeshi Group Buying Platform. Our platform facilitates users to buy together and save together with the fastest delivery. We connect farmers directly with consumers, making it a more interactive and engaging platform, fostering a direct connection between producers and consumers.
-
+I'm also an Intern at [IBOS(An Akij Company)](https://ibos.io/), a Bangladeshi Software Company. I have designed some database table and build module for ERP and HR software. Writting code following SOLID principle rule. Solving Compelex real world problem and fast sql query.
 ## Key Skills
 
 ⚡.NET, API, EF Core, API Authentication, MSSQL
