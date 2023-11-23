@@ -11,7 +11,7 @@ For almost 3 years, I've been deeply involved with problem solving and competiti
 
 ### Internship at [IBOS(An Akij Company)](https://ibos.io/)
 
-I'm also an Intern at [IBOS(An Akij Company)](https://ibos.io/), a Bangladeshi Software Company. I have designed some database table and build module for ERP and HR software. Writting code following SOLID principle rule. Solving Compelex real world problem and fast sql query.
+I'm also an Intern at [IBOS(An Akij Company)](https://ibos.io/), a Bangladeshi Software Company. I have designed some database table and build module for ERP and HR software. Writing code following SOLID principle rule. Solving Complex real world problem and fast sql query.
 ## Key Skills
 
 ⚡.NET, API, EF Core, API Authentication, MSSQL
