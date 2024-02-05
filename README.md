@@ -32,18 +32,6 @@ Feel free to ask me about anything related to Problem Solving!
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] -->
 
-<p>
-  <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3fedff" />
-  <img src="https://img.shields.io/badge/NodeJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3fedff" />
-  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
-  <img src="https://img.shields.io/badge/ReactJs-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-01d9ff" /> 
-  <img src="https://img.shields.io/badge/Angular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" />
-  <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" /> 
-  <img src="https://img.shields.io/badge/BootStrap4-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9b5ee4" /> 
-  <img src="https://img.shields.io/badge/ExpressJS-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" />
-  <img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" />
-</p>
-
 💬 Feel free to ask me about anything related to tech ...
 
 <!--
