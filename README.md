@@ -7,7 +7,7 @@
 
 ### Hello World! 👋
 
-For almost 3 years, I've been deeply involved with problem solving and competitive programming, specializing in Algorithem, Data Structure, Complex thinking. Among these, In present I am working as Backend  Software Engineer Intern at IBOS.
+For almost 3 years, I've been deeply involved with problem solving and competitive programming, specializing in Algorithem, Data Structure, Complex thinking. Among these, In present I am working as a Junior Software Engineer at Technonext and Ex Backend  Software Engineer Intern at IBOS.
 
 ### Internship at [IBOS(An Akij Company)](https://ibos.io/)
 
