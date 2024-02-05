@@ -33,7 +33,6 @@ Feel free to ask me about anything related to Problem Solving!
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />] -->
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-critical" />
   <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
   <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-44b2fb" /> 
   <img src="https://img.shields.io/badge/SCSS-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3fedff" />
