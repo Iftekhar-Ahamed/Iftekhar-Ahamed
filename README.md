@@ -1,4 +1,4 @@
-## 🔭 Competitive Programmer | Problem Solver | Intern Backend Software Engineer at [IBOS(An Akij Company)](https://ibos.io/)
+## 🔭 Competitive Programmer | Problem Solver | Jr Software Engineer at [Technonext(US-BANGLA)]
 
 `😄 Iftekhar Ahamed Siddiquee`
 `🌱 Dhaka, Bangladesh`
